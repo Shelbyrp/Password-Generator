@@ -8,25 +8,25 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-![The Password Generator application displays a choose length prompt".](./assets/images/criteria1.png)
+![The Password Generator application displays a choose length prompt".](./assets/images/criteria_1.png)
 
 2. User is then prompted to select if they would like to include numbers in their password.
 
-![The Password Generator application displays a choose to include numbers prompt".](./assets/images/criteria2.png)
+![The Password Generator application displays a choose to include numbers prompt".](./assets/images/criteria_2.png)
 
 3. User is then prompted to select if they would like to include special characters in their password.
 
-![The Password Generator application displays a choose to include special characters prompt".](./assets/images/criteria3.png)
+![The Password Generator application displays a choose to include special characters prompt".](./assets/images/criteria_3.png)
 
 4. User is then prompted to select if they would like to include uppercase letters in their password.
 
-![The Password Generator application displays a choose to include uppercase letters prompt".](./assets/images/criteria4.png)
+![The Password Generator application displays a choose to include uppercase letters prompt".](./assets/images/criteria_4.png)
 
 5. User is then prompted to select if they would like to include lowercase letters in their password.
 
-![The Password Generator application displays a choose to include lowercase letters prompt".](./assets/images/criteria5.png)
+![The Password Generator application displays a choose to include lowercase letters prompt".](./assets/images/criteria_5.png)
 
-Note: if no length of password is set, the user will be prompted to enter a value or else a password will not be generate5d.
+Note: if no length of password is set, the user will be prompted to enter a value or else a password will not be generated.
 
 Once all criteria is confirmed, a password in generated and displayed on the page for the user to utilse.
 
