@@ -8,7 +8,7 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-![The Password Generator application displays a choose length prompt".](./assets/images/criteria_1.png)
+![The Password Generator application displays a choose length prompt".](../images/criteria_1.png)
 
 2. User is then prompted to select if they would like to include numbers in their password.
 
