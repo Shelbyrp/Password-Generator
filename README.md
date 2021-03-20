@@ -8,23 +8,13 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-![choose length prompt.](./assets/images/image1.png)
-
 2. User is then prompted to select if they would like to include numbers in their password.
-
-![choose to include numbers prompt.](./assets/images/criteria_1.png)
 
 3. User is then prompted to select if they would like to include special characters in their password.
 
-![choose to include special characters prompt.](./assets/images/criteria_1.png)
-
 4. User is then prompted to select if they would like to include uppercase letters in their password.
 
-![choose to include uppercase letters prompt.](./assets/images/criteria_1.png)
-
 5. User is then prompted to select if they would like to include lowercase letters in their password.
-
-![choose to include lowercase letters prompt.](./assets/images/criteria_1.png)
 
 Note: if no length of password is set, the user will be prompted to enter a value or else a password will not be generated.
 
@@ -32,3 +22,7 @@ Once all criteria is confirmed, a password in generated and displayed on the pag
 
 
 Final URL: https://shelbyrp.github.io/Password-Generator/
+
+Password generator 
+
+![](.assets/images/03-javascript-homework-demo.png)
