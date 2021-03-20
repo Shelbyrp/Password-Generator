@@ -8,7 +8,7 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-![choose length prompt.](./assets/images/01-html-css-git-homework-demo.png)
+![choose length prompt.](./assets/images/image1.png)
 
 2. User is then prompted to select if they would like to include numbers in their password.
 
