@@ -23,6 +23,4 @@ Once all criteria is confirmed, a password in generated and displayed on the pag
 
 Final URL: https://shelbyrp.github.io/Password-Generator/
 
-Password generator 
-
-![](.assets/images/03-javascript-homework-demo.png)
+![](./assets/images/03-javascript-homework-demo.png)
