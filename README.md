@@ -8,8 +8,6 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-
-
 2. User is then prompted to select if they would like to include numbers in their password.
 
 ![The Password Generator application displays a choose to include numbers prompt.](./assets/images/criteria_2.png)
@@ -33,4 +31,4 @@ Once all criteria is confirmed, a password in generated and displayed on the pag
 
 Final URL: https://shelbyrp.github.io/Password-Generator/
 
-![choose length prompt](./assets/images/screenshot.jpg)
+![](assets/images/screenshot.jpg)
