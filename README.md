@@ -8,23 +8,23 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
-![choose length prompt](../Password-Generator/assets/images/criteria_1.PNG)
+![choose length prompt](./assets/images/criteria_1.png)
 
 2. User is then prompted to select if they would like to include numbers in their password.
 
-![The Password Generator application displays a choose to include numbers prompt.](../Password-Generator/assets/images/criteria_1.PNG)
+![The Password Generator application displays a choose to include numbers prompt.](./assets/images/criteria_2.png)
 
 3. User is then prompted to select if they would like to include special characters in their password.
 
-![The Password Generator application displays a choose to include special characters prompt.](../Password-Generator/assets/images/criteria_1.PNG)
+![The Password Generator application displays a choose to include special characters prompt.](./assets/images/criteria_3.png)
 
 4. User is then prompted to select if they would like to include uppercase letters in their password.
 
-![The Password Generator application displays a choose to include uppercase letters prompt.](../Password-Generator/assets/images/criteria_1.PNG)
+![The Password Generator application displays a choose to include uppercase letters prompt.](./assets/images/criteria_4.png)
 
 5. User is then prompted to select if they would like to include lowercase letters in their password.
 
-![The Password Generator application displays a choose to include lowercase letters prompt.](../Password-Generator/assets/images/criteria_1.PNG)
+![The Password Generator application displays a choose to include lowercase letters prompt.](./assets/images/criteria_5.png)
 
 Note: if no length of password is set, the user will be prompted to enter a value or else a password will not be generated.
 
