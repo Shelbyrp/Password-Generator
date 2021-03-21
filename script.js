@@ -24,7 +24,6 @@ function generatePassword() {
         length = parseInt(prompt("How many characters would you like your password? Choose between 8 and 128")) ;
         // Exit loop if user selects cancel or zero
         if (!length === true || length === 0) {
-            console.log(!length, length);
             return ("You exited the application");
         }
         // Alert user if selection less than eight or greater than one hundred and twenty eight
