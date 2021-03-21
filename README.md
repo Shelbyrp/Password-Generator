@@ -8,6 +8,8 @@ Criteria that the user will be prompted to select when they have clicked on the 
 
 1. The length of their password so long as it is a minimum of 8 characters and a maximum of 128.
 
+![](./assets/images/screenshot2.png)
+
 2. User is then prompted to select if they would like to include numbers in their password.
 
 3. User is then prompted to select if they would like to include special characters in their password.
@@ -24,4 +26,3 @@ Once all criteria is confirmed, a password in generated and displayed on the pag
 Final URL: https://shelbyrp.github.io/Password-Generator/
 
 ![](./assets/images/03-javascript-homework-demo.png)
-![](./assets/images/criteria_1.png)
