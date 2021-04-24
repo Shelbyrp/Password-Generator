@@ -33,3 +33,9 @@ Once all criteria is confirmed, a password in generated and displayed on the pag
 
 Final URL: https://shelbyrp.github.io/Password-Generator/
 
+# License
+
+@ Shelby R Pignat
+
+Licensed under the [MIT](LICENSE) license.
+

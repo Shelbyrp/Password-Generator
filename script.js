@@ -108,7 +108,7 @@ function generatePassword() {
     else if (confirmCharacter) {
         choices = character;
     }
-    //Else if for 1 positive option (false, false, true, false)
+    //Else if for 1 positive option (false, false, true, false) 
     else if (confirmUppercase) {
         choices = space.concat(Uppercase);
     }
